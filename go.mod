@@ -1,4 +1,4 @@
-module github.com/ddollar/forego
+module github.com/jpillora/forego
 
 go 1.17
 
